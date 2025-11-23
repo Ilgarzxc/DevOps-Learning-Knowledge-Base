@@ -1,0 +1,15 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.swp
+*.swo
+
+# Editors
+.idea/
+.vscode/
+
+# Generated
+*.pdf
+*.html
