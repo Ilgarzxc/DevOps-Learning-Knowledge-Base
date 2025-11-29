@@ -20,3 +20,5 @@ It allows the team:
 ## Purpose of the code review
 A code review ensures that changes are correct, readable, maintainable, secure and aligned with project standards before being merged.
 
+## Test information
+Information for squash / merge review. 
