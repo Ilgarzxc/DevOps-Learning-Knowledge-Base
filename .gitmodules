@@ -1,0 +1,3 @@
+[submodule "lib_module"]
+	path = lib_module
+	url = https://github.com/Ilgarzxc/lib_module
